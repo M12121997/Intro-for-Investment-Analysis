@@ -14,11 +14,9 @@ This guide will include both theory as well as applied coding required for each 
 
 ## Projects
 
-1. **Equally-Weighted Portfolio**: Analyze the performance of an equally-weighted portfolio of FAANG stocks.
-2. **Minimize Volatility**: Coming Soon
-3. **Maximize Sharpe Ratio**: Coming Soon
-4. **Risk Parity**: Coming Soon
-5. **Factor Investing**: Coming Soon
+1. **Modern Portfolio Theory**: Analyze the performance of an equally-weighted, Min Var, Max Sharpe portfolio of FAANG stocks.
+2. **Risk Parity**: Coming Soon
+3. **Factor Investing**: Coming Soon
 
 ## Getting Started
 
