@@ -15,7 +15,7 @@ This guide will include both theory as well as applied coding required for each 
 ## Projects
 
 1. **Modern Portfolio Theory**: Analyze the performance of an equally-weighted, Min Var, Max Sharpe portfolio of FAANG stocks.
-2. **Risk Parity**: Coming Soon
+2. **Risk Parity**: Analyzing a risk parity investment strategy using Gold, S&P 500, and iShares 20+ Year Treasury Bond ETF + OOS Test
 3. **Factor Investing**: Coming Soon
 
 ## Getting Started
